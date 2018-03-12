@@ -1,4 +1,5 @@
 We need the followin components to create the rest api:
+
 • LAMPP.
 
 • Slim Framework: We need to install composer : https://getcomposer.org/download/ 
